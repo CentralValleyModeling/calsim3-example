@@ -4,7 +4,7 @@
 run/=ILP=
 Results
 assets
-run/cvgroundwater/data/restart
+!run/cvgroundwater/data/restart
 .vscode/
 
 # include as stub
