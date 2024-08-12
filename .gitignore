@@ -12,7 +12,7 @@ run/cvgroundwater/data/restart
 !*.stub
 
 # include as stub
-!DSS/input/*
+DSS/input/*
 !*.stub
 !CS3_L2020_INIT_v4.dss
 
